@@ -57,4 +57,4 @@ To build and run the Docker container:
    ```
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under BSD-3
