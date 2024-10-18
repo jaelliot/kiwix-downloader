@@ -1,0 +1,13 @@
+# Ignore all ZIM archive files
+*.zim
+
+# Ignore progress and other unwanted files
+download_progress.json
+urls.txt
+viewer
+
+# Allow the following:
+!kiwix-downloader.py
+!Dockerfile
+!requirements.txt
+!urls.txt
